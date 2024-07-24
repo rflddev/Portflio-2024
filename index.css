@@ -33,7 +33,7 @@ a img:hover::after{
 }
 #Geral{
     font-size: 150px;
-    color: aqua;
+    color: #00ffff;
     line-height: 1%;
 }
 
@@ -47,4 +47,10 @@ a img:hover::after{
 .text{
     text-decoration: none;
     font-size: 20px;
+}
+
+a{
+    color: aqua;
+    text-decoration: none;
+
 }
